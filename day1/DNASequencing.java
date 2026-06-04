@@ -1,3 +1,4 @@
+package day1;
 class DNASequencer {
     private StringBuilder dnaSequence;
 

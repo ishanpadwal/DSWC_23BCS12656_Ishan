@@ -1,3 +1,5 @@
+package day1;
+
 class PowerManager {
     private byte sectorStates = 0;
 

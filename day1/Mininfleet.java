@@ -1,3 +1,4 @@
+package day1;
 abstract class SpaceVessel {
     short shipId;
     boolean isOperational;

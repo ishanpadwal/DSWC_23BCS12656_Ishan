@@ -1,3 +1,4 @@
+package day1;
 class HardwareLockException extends Exception {
     public HardwareLockException(String message) {
         super(message);
